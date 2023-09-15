@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c42ba8e8-aa12-41db-8815-4e27a2b09dfa": {
+      "ProjectGuid": "c42ba8e8-aa12-41db-8815-4e27a2b09dfa",
+      "DisplayName": "CPSC259_Lab4_InLabFramework",
+      "ColorIndex": 0
+    },
+    "cd77f2f4-ba62-4192-9de3-41309a1edf65": {
+      "ProjectGuid": "cd77f2f4-ba62-4192-9de3-41309a1edf65",
+      "DisplayName": "CPSC259_Lab4_InLab_UnitTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

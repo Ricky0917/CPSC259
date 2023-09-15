@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ead7a135-e14a-4a62-969d-972cdf497a4f": {
+      "ProjectGuid": "ead7a135-e14a-4a62-969d-972cdf497a4f",
+      "DisplayName": "CPSC259_Lab1_Walkthrough",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+﻿  dna.c
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(141,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(144,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(188,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(191,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(254,8): warning C4101: 'int_buffer': unreferenced local variable
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(321,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(322,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.c
+  Generating Code...
+  CPSC259_Lab2_Takehome.vcxproj -> C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_Takehome\x64\Debug\CPSC259_Lab2_Takehome.exe

@@ -1,0 +1,107 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/* a node of the singly linked list */
+typedef struct Node {
+    int data;
+    struct Node* next;
+} Node;
+
+// Function to segregate even and odd nodes.
+/* UTILITY FUNCTIONS */
+/* Function to insert a node at the beginning */
+void push(Node** head_ref, int new_data)
+{
+    /* allocate node */
+    Node* new_node = (Node*)malloc(sizeof(Node));
+    /* put in the data */
+    new_node->data = new_data;
+    /* link the old list off the new node */
+    new_node->next = (*head_ref);
+    /* move the head to point to the new node */
+    (*head_ref) = new_node;
+}
+
+/* Function to print nodes in a given linked list */
+void printList(Node* node)
+{
+    while (node != NULL) {
+        printf("%d ", node->data);
+        node = node->next;
+    }
+}
+
+/* Driver program to test above functions*/
+int main()
+{
+    /* Start with the empty list */
+    struct Node* list1 = NULL;
+    struct Node* list2 = NULL;
+    /* Let us create a sample linked list as following
+    0->1->4->6->9->10->11 */
+/////////////////////////////////////////////////
+    push(&list1, );
+    push(&list1, );
+    push(&list1, );
+    push(&list1, );
+    push(&list1, );
+    push(&list1, );
+    push(&list1, );
+    push(&list1, );
+    push(&list1, );
+    push(&list1, );
+
+    printf("\nOriginal Linked list \n");
+    printList(list1);
+///////////////////////////////////////////////////////
+    //segregateEvenOdd(head,list);
+    
+    Node* list1_pre = NULL;//start
+    Node* list1_curr = NULL;//end
+    Node* list2_pre = NULL;//start
+    Node* list2_curr = NULL;//end
+    //int v = 0;
+    
+    Node* list = list1;
+    
+    while (list != NULL) {
+      //int v = list->data;
+        if (   ) {
+            if (list == NULL) {
+                list1_pre = list;
+                list1_curr = list1_pre;
+            }
+            else {
+                list1_curr->next = list;
+                list1_curr = list1_curr->next;
+            }
+        }
+          
+        else {
+            if (list2_pre == NULL) {
+                list2_pre = list;
+                list2_pre = list2;
+            }
+
+            else {
+                list2_curr->next = list;
+                list2_curr = list2_curr->next;
+            }
+        }
+       
+        list = list->next;
+        //i++;
+
+    }
+    list1 = list1_pre;
+    list2 = list2_pre;
+    list1_curr->next = list2_pre;
+    list2_curr->next = NULL;
+///////////////////////////////////////////////////////
+    printf("\nModified Linked list1 \n");
+    printList(list1);
+    printf("\nModified Linked list2 \n");
+    printList(list2);
+
+    return 0;
+}

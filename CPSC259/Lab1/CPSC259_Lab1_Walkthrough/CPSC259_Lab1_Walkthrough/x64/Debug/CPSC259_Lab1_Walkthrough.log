@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\CPSC259_Lab1_Walkthrough\CPSC259_Lab1_Walkthrough\main.c(49,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\CPSC259_Lab1_Walkthrough\CPSC259_Lab1_Walkthrough\main.c(49,12): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\CPSC259_Lab1_Walkthrough\CPSC259_Lab1_Walkthrough\main.c(50,12): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\CPSC259_Lab1_Walkthrough\CPSC259_Lab1_Walkthrough\main.c(50,12): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int *'
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\CPSC259_Lab1_Walkthrough\CPSC259_Lab1_Walkthrough\main.c(75,11): warning C4013: 'system' undefined; assuming extern returning int
+  CPSC259_Lab1_Walkthrough.vcxproj -> C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\CPSC259_Lab1_Walkthrough\x64\Debug\CPSC259_Lab1_Walkthrough.exe

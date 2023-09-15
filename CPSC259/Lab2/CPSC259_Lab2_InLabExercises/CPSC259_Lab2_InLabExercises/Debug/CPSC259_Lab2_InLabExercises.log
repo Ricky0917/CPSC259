@@ -1,0 +1,11 @@
+﻿  lab2_in-lab_exercises.c
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_InLabExercises\CPSC259_Lab2_InLabExercises\lab2_in-lab_exercises.c(54,17): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_InLabExercises\CPSC259_Lab2_InLabExercises\lab2_in-lab_exercises.c(50,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_InLabExercises\CPSC259_Lab2_InLabExercises\lab2_in-lab_exercises.c(84,23): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_InLabExercises\CPSC259_Lab2_InLabExercises\lab2_in-lab_exercises.c(87,31): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_InLabExercises\CPSC259_Lab2_InLabExercises\lab2_in-lab_exercises.c(91,30): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_InLabExercises\CPSC259_Lab2_InLabExercises\lab2_in-lab_exercises.c(135,23): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_InLabExercises\CPSC259_Lab2_InLabExercises\lab2_in-lab_exercises.c(142,17): warning C4018: '<=': signed/unsigned mismatch
+  main.c
+  Generating Code...
+  CPSC259_Lab2_InLabExercises.vcxproj -> C:\Users\HUAWEI\Desktop\2022Fall\CPSC259\Lab2\CPSC259_Lab2_InLabExercises\Debug\CPSC259_Lab2_InLabExercises.exe

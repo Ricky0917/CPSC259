@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "759c6517-e80f-45db-824a-d192fd14f749": {
+      "ProjectGuid": "759c6517-e80f-45db-824a-d192fd14f749",
+      "DisplayName": "CPSC259_Lab3_Framework",
+      "ColorIndex": 0
+    },
+    "4718738e-74ab-4c43-adf6-f394d1f6b733": {
+      "ProjectGuid": "4718738e-74ab-4c43-adf6-f394d1f6b733",
+      "DisplayName": "CPSC259_Lab3_UnitTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
